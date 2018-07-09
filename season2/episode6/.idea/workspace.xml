@@ -79,15 +79,24 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Socks5Proxy.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Socks5Proxy.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/main/java/edu/technopolis/advancedjava/season2/Socks5Proxy.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="123">
+            <state relative-caret-position="2715">
               <caret line="151" column="25" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
               <folding>
                 <element signature="imports" expanded="true" />
                 <element signature="e#3401#3414#0" expanded="true" />
               </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret column="5" selection-start-column="5" selection-end-column="5" />
             </state>
           </provider>
         </entry>
@@ -510,6 +519,7 @@
         <option value="$PROJECT_DIR$/src/main/java/edu/technopolis/advancedjava/season2/socks5.java" />
         <option value="$PROJECT_DIR$/build.gradle" />
         <option value="$PROJECT_DIR$/src/main/java/edu/technopolis/advancedjava/season2/Socks5Proxy.java" />
+        <option value="$PROJECT_DIR$/.gitignore" />
       </list>
     </option>
   </component>
@@ -753,12 +763,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1531095819352</updated>
-      <workItem from="1531095820962" duration="1594000" />
+      <workItem from="1531095820962" duration="1726000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1594000" />
+    <option name="totallyTimeSpent" value="1726000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="-6" width="1920" height="1086" extended-state="6" />
@@ -771,12 +781,12 @@
       <window_info anchor="bottom" id="Application Servers" weight="0.32983193" />
       <window_info anchor="right" id="Maven Projects" />
       <window_info anchor="bottom" id="Database Changes" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.40441176" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.40441176" />
       <window_info anchor="bottom" id="Version Control" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Terminal" weight="0.28151262" />
+      <window_info anchor="bottom" id="Terminal" visible="true" weight="0.28151262" />
       <window_info anchor="bottom" id="Jelastic" />
       <window_info id="Designer" />
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2497332" />
       <window_info anchor="bottom" id="Build" weight="0.32983193" />
       <window_info anchor="right" id="Database" />
       <window_info anchor="right" id="Gradle" visible="true" weight="0.18089648" />
@@ -833,12 +843,19 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/main/java/edu/technopolis/advancedjava/season2/Socks5Proxy.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="123">
+        <state relative-caret-position="2715">
           <caret line="151" column="25" selection-start-line="151" selection-start-column="25" selection-end-line="151" selection-end-column="25" />
           <folding>
             <element signature="imports" expanded="true" />
             <element signature="e#3401#3414#0" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="5" selection-start-column="5" selection-end-column="5" />
         </state>
       </provider>
     </entry>
