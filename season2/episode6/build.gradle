@@ -1,16 +1,15 @@
-plugins {
-    id 'advancedjava'
-}
+apply plugin: 'application'
 
-group 'edu.technopolis.advancedjava'
-version '0.0.1'
-
-sourceCompatibility = 1.8
+mainClassName = 'socks5.main'
 
 repositories {
     mavenCentral()
 }
 
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
 dependencies {
-    testCompile group: 'junit', name: 'junit', version: '4.12'
+    compile "joda-time:joda-time:2.2"
+    testCompile "junit:junit:4.12"
 }
